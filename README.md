@@ -2,14 +2,15 @@
 The project I have made using React for front end and Backend using node.js and MongoDB
 
 #Import restaurantData.json to your mongodb local database.
+
 #Run npm install in restaurant folder and restaurant_api folder
+
 #Run npm start in restaurant folder and restaurant_api folder
 
 #The application should run now
 
-
-
 Charter/Spectrum Full Stack Code Challenge
+
 For this challenge we would like you to create a React application and an API that uses
 restaurant data from the attached JSON file. The React application should present the data
 in a table and allows users to filter that data
